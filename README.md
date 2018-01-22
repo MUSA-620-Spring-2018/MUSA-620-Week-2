@@ -18,7 +18,7 @@ Animated map of Philadelphia crime (credit: [Simon Kassel](https://twitter.com/S
 
 ## Assignment
 
-Create an animated choropleth map of Philadelphia (Census tracts level), using a Census variable of your choice.
+Create an animated choropleth map of Philadelphia (Census tract level), using a Census variable of your choice.
 
 This assignment is **required**. Please turn it in by email to myself (galkamaxd at gmail) and Evan (ecernea at sas dot upenn dot edu).
 
@@ -40,7 +40,7 @@ Using the methods we've learned in class, create an animated choropleth map of P
 - Example topics: property values, median income, most common occupation, etc.
 
 The methods for creating the map should follow roughly this path:
-- Make and necessary preparations to your tabular Census data: clean up columns, modify/add columns, make sure it includes a "join" column.  
+- Make any necessary preparations to your tabular Census data: clean up columns, modify/add columns, make sure it includes a "join" column.  
 - Join the tabular data to your Philadelpia map.
 - Use ggplot2 to style the map, one year of data at a time.
 - Export the plots as images and combine into a GIF.
