@@ -1,10 +1,9 @@
 # Week 2: Data frames, Tidyverse, map projections
-<p align="justify">
+
 ![Philadelphia crime map](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-2/blob/master/phila_crime_sk.gif "Philadelphia crime map")
-</p>
-<p align="justify">
+
 Animated map of Philadelphia crime (credit: [Simon Kassel](https://twitter.com/SimonKassel))
-</p>
+
 
 ## Links
 
