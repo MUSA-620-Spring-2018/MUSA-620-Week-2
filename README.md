@@ -35,12 +35,13 @@ The final deliverable should include:
 
 Using the methods we've learned in class, create an animated choropleth map of Philadelphia using a Census variable of your choice.
 - The map should be a Census tract-level map that uses Census tract-level data.
-- You may choose any variable you wish, though the data must go back at least 5 years (i.e. the animation must include at least 5 frames).
+- You may choose any variable you wish, though the data must go back at least **four** years (i.e. the animation must include at least four frames).
+- To avoid issues with changing Census boundaries, your data should start no earlier than 2010.
 - The richest source of data can be found in the [Census ACS Survey](https://data2.nhgis.org/main), though data from other sources is fair game.
 - Example topics: property values, median income, most common occupation, etc.
 
 The methods for creating the map should follow roughly this path:
-- Make any necessary preparations to your tabular Census data: clean up columns, modify/add columns, make sure it includes a "join" column.  
+- Make any necessary preparations to your tabular Census data (probably easiest in Excel): clean up columns, modify/add columns, remove unnecessary columns, make sure it includes a "join" column, etc.
 - Join the tabular data to your Philadelpia map.
 - Use ggplot2 to style the map, one year of data at a time.
 - Export the plots as images and combine into a GIF.
@@ -56,6 +57,8 @@ This assignment is not intended as a purely technical exercise. You should also 
 
 - [Philadelphia Census tracts shapefile/geojson](https://www.opendataphilly.org/dataset/census-tracts)
 - [Census ACS data portal](https://data2.nhgis.org/main)
+
+If you have a preferred source of Census data, you are welcome collect the data from there.
 
 ### Grading
 
