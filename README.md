@@ -67,8 +67,8 @@ The map will be graded on:
 - Clarity of communication (does the map tell a clear story? can you defend your design choices?)
 - Writeup (was it well thought out?)
 
-Your code itself will not be factored into the grade.
+Code will be checked for correctness, but will otherwise not be factored into the grade.
 
 **Extra credit:**
 
-Have an idea for a map that builds upon the project description (see the example at the top)? If so, please let me know by email what you have in mind for the chance to receive extra credit.
+Have an idea for a map that builds upon the project description (see the example at the top)? If so, please let me know by email what you have in mind for the chance to receive extra credit. Please be specific and include a link to the dataset[s] you intend to use.
