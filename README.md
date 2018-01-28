@@ -24,14 +24,7 @@ This assignment is **required**. Please turn it in by email to myself (galkamaxd
 
 **Due:** 30-Jan at the start of class
 
-### Deliverable:
-
-The final deliverable should include:
-- the map itself (animated GIF)
-- any code and data used in the construction of the map
-- a written explanation of: the steps you took to create it, reasons for your design choices, and anything else you would like to add about what the map shows / what patterns you see.
-
-### Task:
+### Description
 
 Using the methods we've learned in class, create an animated choropleth map of Philadelphia using a Census variable of your choice.
 - The map should be a Census tract-level map that uses Census tract-level data.
@@ -52,18 +45,26 @@ This assignment is not intended as a purely technical exercise. You should also 
 - Does it include explanatory features (title, legend, etc) that make clear what you're looking at?
 - All other aspects of the map's design
 
+In your writeup, please include a few lines about the thought process behind your design choices.
 
-### Data sources:
+### Data sources
 
 - [Philadelphia Census tracts shapefile/geojson](https://www.opendataphilly.org/dataset/census-tracts)
 - [Census ACS data portal](https://data2.nhgis.org/main)
 
 If you have a preferred source of Census data, you are welcome collect the data from there.
 
+### Deliverable:
+
+The final deliverable should include all of these items:
+- the map itself (animated GIF)
+- all code and data used in the construction of the map
+- a written explanation of: the steps you took to create it, reasons for your design choices, and anything else you would like to add about what the map shows / what patterns you see.
+
 ### Grading
 
-The map will be graded on:
-- Completion of the project as described
+Your project will be graded will be graded on:
+- Completion of the map as described
 - Clarity of communication (does the map tell a clear story? can you defend your design choices?)
 - Writeup (was it well thought out?)
 
