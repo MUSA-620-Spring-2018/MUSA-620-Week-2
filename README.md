@@ -22,7 +22,7 @@ Create an animated choropleth map of Philadelphia (Census tract level), using a 
 
 This assignment is **required**. Please turn it in by email to myself (galkamaxd at gmail) and Evan (ecernea at sas dot upenn dot edu).
 
-**Due:** 30-Jan at the start of class
+**Due:** 30-Jan before the start of class
 
 ### Description
 
@@ -54,7 +54,7 @@ In your writeup, please include a few lines about the thought process behind you
 
 If you have a preferred source of Census data, you are welcome collect the data from there.
 
-### Deliverable:
+### Deliverable
 
 The final deliverable should include all of these items:
 - the map itself (animated GIF)
