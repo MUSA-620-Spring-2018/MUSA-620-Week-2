@@ -2,7 +2,7 @@
 
 ![Philadelphia crime map](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-2/blob/master/phila_crime_sk.gif "Philadelphia crime map")
 
-Animated map of Philadelphia crime (credit: [Simon Kassel](https://twitter.com/SimonKassel))
+Animated map of Philadelphia crime (credit: [Simon Kassel](https://twitter.com/SimonKassel), made with this [R script](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-2/blob/master/SK_animating_phila_crime_032617.R))
 
 
 ## Links
